@@ -1,16 +1,22 @@
 ---
-title: Our Coffee
+title: Nuestro cafe
 type: products
 page: /products.html
 image: /img/products/jumbotron.jpg
 heading: What we offer
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Esto esta muy bueno!. Kaldi is the ultimate spot for coffee lovers who want to
+  learn about their java’s origin and support the farmers that grew it. We take
+  coffee production, roasting and brewing seriously and we’re glad to pass that
+  knowledge to anyone.
 intro:
   blurbs:
+    - image: /img/illustrations/coffee-gear.svg
+      text: >
+        We offer a small, but carefully curated selection of brewing gear and
+        tools for every taste and experience level. No matter if you roast your
+        own beans or just bought your first french press, you’ll find a gadget
+        to fall in love with in our shop.
     - image: /img/illustrations/coffee.svg
       text: >
         We sell green and roasted coffee beans that are sourced directly from
@@ -18,12 +24,6 @@ intro:
         variety of coffee beans grown with great care for the environment and
         local communities. Check our post or contact us directly for current
         availability.
-    - image: /img/illustrations/coffee-gear.svg
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
     - image: /img/illustrations/tutorials.svg
       text: >
         Love a great cup of coffee, but never knew how to make one? Bought a
@@ -38,19 +38,23 @@ intro:
         space where you can hang out with fellow coffee lovers and learn about
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
-  heading: What we offer
-  description: >
+  heading: Que ofrecemos
+  description: >-
+    Este es un buen ejemplo de como anda netlify.
+
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
     java’s origin and support the farmers that grew it. We take coffee
     production, roasting and brewing seriously and we’re glad to pass that
     knowledge to anyone. This is an edit via identity...
 main:
-  heading: Great coffee with no compromises
+  heading: Great coffee with no compromises!!!
   description: >
     We hold our coffee to the highest standards from the shrub to the cup.
     That’s why we’re meticulous and transparent about each step of the coffee’s
     journey. We personally visit each farm to make sure the conditions are
     optimal for the plants, farmers and the local environment.
+
+    Esto anda muy bien!
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/products/products-grid3.jpg
@@ -99,5 +103,4 @@ pricing:
       plan: Custom
       price: '?'
 ---
-
 
